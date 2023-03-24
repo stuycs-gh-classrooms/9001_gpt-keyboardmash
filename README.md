@@ -33,7 +33,12 @@ You can find ChatGPT here: <https://chat.openai.com/chat>
 ### Your Prompt
 Provide below the first description you gave ChatGPT:
 
-YOUR ANSWER HERE
+You are writing a graphics engine from scratch with no libraries in python. It should be able to draw lines, circles, bezier curves, hermite curves, maintain an edge list of points, perform transformations, rotations, and dilations, be able to save and display images. Create a makefile to run the program. Give the code required for this.
+
+Write the code for the canvas implementation
+
+Write a simple program using the code above to draw a single line
+
 
 ### The Code
 Crate a folder in this repository called __0-program__ containing all the relevant code initially created by ChatGPT.
